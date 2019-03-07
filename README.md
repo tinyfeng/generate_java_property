@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-拷贝此main.rb到rails项目tmp目录下，或在rails tmp目录下生成一个文件的链接
+拷贝main.rb到rails项目tmp目录下，或在rails tmp目录下生成一个文件的链接
 
 到rails项目根目录执行
 
