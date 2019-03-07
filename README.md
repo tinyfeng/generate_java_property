@@ -4,12 +4,12 @@
 
 ## 使用方法
 
-拷贝此文件到rails项目tmp目录下，或在rails tmp目录下生成一个文件的链接
+拷贝此main.rb到rails项目tmp目录下，或在rails tmp目录下生成一个文件的链接
 
 到rails项目根目录执行
 
 ```sh
-table_name=your_table_name bundle exec rails runner tmp/get_java_property.rb
+table_name=your_table_name bundle exec rails runner tmp/main.rb
 ```
 
 注意要把your_table_name替换为对应的表的名称
